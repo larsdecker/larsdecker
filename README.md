@@ -12,8 +12,8 @@ Product Owner in the web space with a development background in TypeScript, PHP,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larsdecker&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larsdecker&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=larsdecker)
+<div align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://github.com/larsdecker/larsdecker/blob/main/github-metrics.svg" />
+  </a>
+</div>
